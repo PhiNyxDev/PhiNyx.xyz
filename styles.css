@@ -68,3 +68,9 @@ body {
 .logo-black {
     transition: opacity 0.5s;
 }
+
+.avatar {
+    height: 1em;
+    width: auto;
+    vertical-align: middle;
+}

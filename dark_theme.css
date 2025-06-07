@@ -23,3 +23,7 @@ body {
 .logo-white {
     opacity: 1;
 }
+
+a:visited {
+    color: rgb(125, 155, 155);
+}
