@@ -1,0 +1,25 @@
+body {
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+}
+
+#top-bar {
+    background-color: rgba(0, 0, 0, 0.25);
+    border-bottom-color: rgba(0, 0, 0, 0.75);
+}
+
+#theme-switch {
+    background-color: rgb(255, 255, 255);
+}
+
+#theme-switch:hover {
+    background-color: rgb(20, 0, 20);
+}
+
+.logo-black {
+    opacity: 1;
+}
+
+.logo-white {
+    opacity: 0;
+}
